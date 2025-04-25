@@ -1,7 +1,18 @@
 # Don't Cut!
 
 ## What Is It? 
+
 **Don't Cut!** is a web app designed for car enthusiasts to discover and plan exciting driving routes based on customizable preferences such as road curviness, weather conditions, elevation changes, and more. Inspired by touge culture, this app aims to make finding the perfect road for a cruise or spirited drive easier, more enjoyable, and safer for all involved.
+
+---
+
+## Motivation
+
+Growing up with an all-things love for cars, racing, and automotive engineering, I wanted an app that would allow me to generate scenic drive routes effortlessly, helping me plan my weekend retreats through the curvy mountain roads. 
+
+Moreover, with an extensive motorsports club and ~~tasteful~~ enthusiastic car culture here in Davis, CA (the place I go to college at - go Aggies!!), I wanted to provide a tool that supports both my personal hobbies as well as my community. 
+
+Thus, was born the idea of this app - **Don't Cut!**
 
 ---
 
@@ -22,9 +33,9 @@ As mentioned, this is a **personal side project** that I plan to work on over ti
 
 ---
 
-## Contact
+## Contact Info
 
-I am always open to feedback, new ideas for the app, or opportunities to connect — feel free to reach out anytime! 
+I am always open to feedback, new ideas for the app, or opportunities to connect — feel free to reach out anytime! :)
 
 - [**Business Email**](mailto:tjjlee@ucdavis.edu)
 - [**GitHub**](https://github.com/tysonjlee)
@@ -33,4 +44,4 @@ I am always open to feedback, new ideas for the app, or opportunities to connect
   
 ---
 
-Stay tuned as this project evolves! :)
+Stay tuned as this project evolves...
