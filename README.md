@@ -31,6 +31,8 @@ While this project also serves as a useful tool for car enthusiasts, it is prima
 
 As mentioned, this is a **personal side project** that I plan to work on over time, continually improving as I learn more and refine the features. While it is currently a proof-of-concept, I am committed to iterating on it and possibly expanding its scope in the future.
 
+[See the features I plan to implement!](https://github.com/tysonjlee/dont-cut-app/blob/main/documentation/future-implementations.md)
+
 ---
 
 ## Contact Info
