@@ -4,7 +4,7 @@ Primarily for myself, this serves as a list of all the features I want to implem
 
 Feel free to contact me with any suggestions. You might very well see your idea on here! 
 
-[(Contact info at the bottom of my README.md)]((https://github.com/tysonjlee/dont-cut-app/blob/main/README.md))
+[*Contact info at the bottom of my README.md]((https://github.com/tysonjlee/dont-cut-app/blob/main/README.md))
 
 --- 
 
