@@ -13,5 +13,3 @@ Feel free to contact me with any suggestions. You might very well see your idea 
 * Login page 
 * Register page 
 * Profile page 
-
-
